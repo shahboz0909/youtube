@@ -8,8 +8,8 @@ import tech from '../../assets/tech.svg'
 import star from '../../assets/Star.svg'
 import u1 from '../../assets/u1.svg'
 import ui2 from '../../assets/ui2.svg'
-import oval from '../../assets/oval.svg'
-import oval2 from '../../assets/oval2.svg'
+import oval from '../../assets/Oval.svg'
+import oval2 from '../../assets/Oval2.svg'
 import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
