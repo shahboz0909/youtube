@@ -4,7 +4,7 @@ import youtube from '../../assets/Black.svg'
 import search from '../../assets/Shape.svg'
 import vedio from '../../assets/phone-18.svg'
 import ui from '../../assets/ui-11.svg'
-import ui1 from '../../assets/userpic.svg'
+import ui1 from '../../assets/Userpic.svg'
 import { Link } from "react-router-dom";
 
 const Home = () => {
