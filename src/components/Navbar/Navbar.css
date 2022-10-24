@@ -1,0 +1,58 @@
+.navber-box {
+    width: 260px;
+    background: #212121;
+}
+
+.img-home {
+    filter: invert(48%) sepia(9%) saturate(65%) hue-rotate(201deg) brightness(90%) contrast(84%);
+}
+
+.text-link {
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.text-link-2 {
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: #ffffff;
+    mix-blend-mode: normal;
+    opacity: 0.9;
+}
+
+.clic {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+   
+    display: block;
+}
+
+
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    border-radius: 3px;
+    box-shadow: inset 0 0 10px rgba(255, 255, 255, 0.25);
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    border-radius: 3px;
+    background-color: #7f7f7f;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #9e9e9e;
+  }

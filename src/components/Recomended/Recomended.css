@@ -1,0 +1,15 @@
+.box-1 {
+    width: 450px;
+}
+
+.item {
+    width: 400px;
+}
+
+.scrol {
+    width: 1296px;
+    height: 260px;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
